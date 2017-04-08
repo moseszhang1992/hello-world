@@ -1,4 +1,2 @@
-# hello-world
-github tutorial 
-
-wirte a bit
+# temp
+math 373 wrapup yi financial calc models 
